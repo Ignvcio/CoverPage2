@@ -1,0 +1,33 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background: black;
+  color: white;
+}
+body {
+  background: black;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+col-6 {
+  justify-content: center;
+  text-align: center;
+  margin-top: 300px;
+}
+.navbar {
+  color: white;
+}
+.navbar-default {
+  background-color: black;
+  background-image: none;
+  background-repeat: no-repeat;
+}
+navbar-collapse {
+  text-align: right;
+}
+
+navbar-collapse:hover {
+  text-decoration: underline;
+  color: white;
+}
